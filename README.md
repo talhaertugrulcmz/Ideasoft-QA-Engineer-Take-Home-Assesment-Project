@@ -9,6 +9,8 @@ Görev 1 - Ideasoft QA Web Otomasyon Projesi
 
 * Kütüphane : Selenium
 
+* Herbir test senaryosunun koşumunu ayrı ayrı feature dosyalarında gerçekleştirdim
+
 
 Projede Yararlanılan Kaynaklar :
 ---------------------------------------
