@@ -16,4 +16,9 @@ Projede Yararlanılan Kaynaklar :
 ---------------------------------------
 * pom.xml için = mvnrepository.com
 
-* Karşılaştığım hatalarda browserstack.com internet sitesi kullanılmıştır.
+* UrunArama senaryosunda kullanılan (hoverElement) metodu için = browserstack.com internet siteleri kullanılmıştır.Dış kaynak kullanarak yararlandığım kod aşağıda belirtilmiştir.
+
+    public void hoverElement(){
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scroll(0,500)");
+    }
